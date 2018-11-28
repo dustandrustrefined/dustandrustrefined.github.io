@@ -1,0 +1,50 @@
+body {
+  color: #000000;
+  font-family: 'Merriweather', serif;
+	font-size: 17px;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+}
+h2 {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+a, a:visited, a:hover {
+	color: #000000;
+  text-decoration: underline;
+}
+
+/* Icons */
+
+.icons .fa {
+  font-size: 65px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+/* Hero */
+
+.hero {
+  padding: 60px 0 40px 0;
+}
+.hero img {
+  max-width: 300px;
+}
+
+/* Footer */
+
+.footer {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.footer p {
+  font-size: 80%;
+}
